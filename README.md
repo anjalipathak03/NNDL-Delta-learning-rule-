@@ -21,11 +21,4 @@ X = the input value from pre-synaptic neuron.
 
 z= (t-y) is the difference between the desired input t and the actual output y. The above mentioned mathematical rule cab be used only for a single output unit.
 
-The different weights can be determined with respect to these two cases.
-
-Case 1 - When t ≠ k, then
-
-w(new) = w(old) + ∆w
-
-Case 2 - When t = k, then
 
