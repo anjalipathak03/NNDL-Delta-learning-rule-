@@ -29,6 +29,3 @@ w(new) = w(old) + ∆w
 
 Case 2 - When t = k, then
 
-##### No change in weight
-
-For a given input vector, we need to compare the output vector, and the final output vector would be the correct answer. If the difference is zero, then no learning takes place, so we need to adjust the weight to reduce the difference. If the set of input patterns is taken from an independent set, then it uses learn arbitrary connections using the delta learning rule.
