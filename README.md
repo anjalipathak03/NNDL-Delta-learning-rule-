@@ -1,0 +1,2 @@
+# NNDL Delta learning rule 
+ 
