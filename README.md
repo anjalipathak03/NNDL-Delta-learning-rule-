@@ -4,21 +4,7 @@ The delta rule in an artificial neural network is a specific kind of backpropaga
 
 Generally, backpropagation has to do with recalculating input weights for artificial neurons utilizing a gradient technique. Delta learning does this by using the difference between a target activation and an obtained activation. By using a linear activation function, network connections are balanced. Another approach to explain the Delta rule is that it uses an error function to perform gradient descent learning.
 
-## Mathematical equation:
-The given equation gives the mathematical equation for delta learning rule:
 
-∆w = µ.x.z
 
-∆w = µ(t-y)x
-
-Here,
-
-∆w = weight change.
-
-µ = the constant and positive learning rate.
-
-X = the input value from pre-synaptic neuron.
-
-z= (t-y) is the difference between the desired input t and the actual output y. The above mentioned mathematical rule cab be used only for a single output unit.
 
 
